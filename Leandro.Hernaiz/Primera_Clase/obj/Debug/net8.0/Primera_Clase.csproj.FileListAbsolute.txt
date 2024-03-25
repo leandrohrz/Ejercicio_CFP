@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\bin\Debug\net8.0\Primera_Clase.exe
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\bin\Debug\net8.0\Primera_Clase.deps.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\bin\Debug\net8.0\Primera_Clase.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\bin\Debug\net8.0\Primera_Clase.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\bin\Debug\net8.0\Primera_Clase.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.sourcelink.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\refint\Primera_Clase.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\Primera_Clase.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Primera_Clase\obj\Debug\net8.0\ref\Primera_Clase.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.sourcelink.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\bin\Debug\net8.0\Lamparitas.exe
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\bin\Debug\net8.0\Lamparitas.deps.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\bin\Debug\net8.0\Lamparitas.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\bin\Debug\net8.0\Lamparitas.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\bin\Debug\net8.0\Lamparitas.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\refint\Lamparitas.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\Lamparitas.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\Lamparitas\obj\Debug\net8.0\ref\Lamparitas.dll

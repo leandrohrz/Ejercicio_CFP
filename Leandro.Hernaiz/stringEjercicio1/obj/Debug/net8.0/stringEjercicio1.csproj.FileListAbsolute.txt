@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.sourcelink.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\bin\Debug\net8.0\stringEjercicio1.exe
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\bin\Debug\net8.0\stringEjercicio1.deps.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\bin\Debug\net8.0\stringEjercicio1.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\bin\Debug\net8.0\stringEjercicio1.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\bin\Debug\net8.0\stringEjercicio1.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\refint\stringEjercicio1.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\stringEjercicio1.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio1\obj\Debug\net8.0\ref\stringEjercicio1.dll

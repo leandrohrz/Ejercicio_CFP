@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252F3787-1B13-41C2-8702-71EABA10669A}|stringEjercicio2\\stringEjercicio2.csproj|c:\\users\\pc\\desktop\\ejercicio_cfp\\leandro.hernaiz\\stringejercicio2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F3787-1B13-41C2-8702-71EABA10669A}|stringEjercicio2\\stringEjercicio2.csproj|solutionrelative:stringejercicio2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3B5EAB-253D-4DE2-8A72-1C0EBE76F89D}|SegundaClaseCondicional\\SegundaClaseCondicional.csproj|c:\\users\\pc\\desktop\\ejercicio_cfp\\leandro.hernaiz\\segundaclasecondicional\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3B5EAB-253D-4DE2-8A72-1C0EBE76F89D}|SegundaClaseCondicional\\SegundaClaseCondicional.csproj|solutionrelative:segundaclasecondicional\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B7C49C-6D39-4BB0-89ED-82CDE8317C1E}|Primera_Clase\\Primera_Clase.csproj|c:\\users\\pc\\desktop\\ejercicio_cfp\\leandro.hernaiz\\primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B7C49C-6D39-4BB0-89ED-82CDE8317C1E}|Primera_Clase\\Primera_Clase.csproj|solutionrelative:primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C2F845-3BAA-4AE6-9736-D8194B234AAF}|stringEjercicio1\\stringEjercicio1.csproj|c:\\users\\pc\\desktop\\ejercicio_cfp\\leandro.hernaiz\\stringejercicio1\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C2F845-3BAA-4AE6-9736-D8194B234AAF}|stringEjercicio1\\stringEjercicio1.csproj|solutionrelative:stringejercicio1\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E2C4A6-2D4B-4539-82B4-D0DCFACEEA44}|Lamparitas\\Lamparitas.csproj|c:\\users\\pc\\desktop\\ejercicio_cfp\\leandro.hernaiz\\lamparitas\\lamparitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E2C4A6-2D4B-4539-82B4-D0DCFACEEA44}|Lamparitas\\Lamparitas.csproj|solutionrelative:lamparitas\\lamparitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\stringEjercicio2\\ejercicio2.cs",
+              "RelativeDocumentMoniker": "stringEjercicio2\\ejercicio2.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\stringEjercicio2\\ejercicio2.cs",
+              "RelativeToolTip": "stringEjercicio2\\ejercicio2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:40:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\stringEjercicio1\\ejercicio1.cs",
+              "RelativeDocumentMoniker": "stringEjercicio1\\ejercicio1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\stringEjercicio1\\ejercicio1.cs",
+              "RelativeToolTip": "stringEjercicio1\\ejercicio1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAywBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:29:50.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lamparitas.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\Lamparitas\\Lamparitas.cs",
+              "RelativeDocumentMoniker": "Lamparitas\\Lamparitas.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\Lamparitas\\Lamparitas.cs",
+              "RelativeToolTip": "Lamparitas\\Lamparitas.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:05:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condicionales.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\SegundaClaseCondicional\\Condicionales.cs",
+              "RelativeDocumentMoniker": "SegundaClaseCondicional\\Condicionales.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\SegundaClaseCondicional\\Condicionales.cs",
+              "RelativeToolTip": "SegundaClaseCondicional\\Condicionales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:35:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\Primera_Clase\\Program.cs",
+              "RelativeDocumentMoniker": "Primera_Clase\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Ejercicio_CFP\\Leandro.Hernaiz\\Primera_Clase\\Program.cs",
+              "RelativeToolTip": "Primera_Clase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:43:56.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

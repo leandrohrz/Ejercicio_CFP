@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\bin\Debug\net8.0\stringEjercicio2.exe
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\bin\Debug\net8.0\stringEjercicio2.deps.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\bin\Debug\net8.0\stringEjercicio2.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\bin\Debug\net8.0\stringEjercicio2.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\bin\Debug\net8.0\stringEjercicio2.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.sourcelink.json
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\refint\stringEjercicio2.dll
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.pdb
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\stringEjercicio2.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicio_CFP\Leandro.Hernaiz\stringEjercicio2\obj\Debug\net8.0\ref\stringEjercicio2.dll
